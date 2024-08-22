@@ -1,0 +1,12 @@
+#start_pause {
+    background-color: #00FF00;
+    width: 100px;
+ }
+ 
+ #end {
+    background-color: red;
+ }
+
+ #time {
+    background-color: yellow;
+ }
